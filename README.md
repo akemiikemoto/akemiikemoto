@@ -1,11 +1,10 @@
-# 👋 Olá! Eu sou a Akemi Ikemoto
+# 👋 Olá! Eu sou a Akemi
 
 <br>
 
 ## 🚀 Sobre Mim
 
 Moro em São José dos Campos. Embora minha primeira formação seja como **Técnica em Química pelo IFSP**, decidi seguir carreira na área de tecnologia, onde hoje busco unir a disciplina do método científico com a criatividade do desenvolvimento de software.
-
 
 Atualmente, curso **Ciência e Tecnologia com ênfase em Ciência da Computação na UNIFESP**, onde mergulho no universo do desenvolvimento de software e da inovação.
 
@@ -38,4 +37,8 @@ Busco oportunidades para colaborar em projetos desafiadores e continuar crescend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=white)
+![Piskel](https://img.shields.io/badge/Piskel-FFD43A?style=for-the-badge&logo=piskel&logoColor=black)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Google Drive](https://img.shields.io/badge/Google_Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 
